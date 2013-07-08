@@ -1,25 +1,25 @@
 The is the second parenting social network that I am creating. The first of the two worked well, but it was not promoted enough, and had some functionality issues. This time I will be making this network to work in a way that will be easy to use; it will be more user friendly.
 
 Finished tasks:
->> Create Css
->> Set up Devise for authentication
->> Create the profile page
->> Setting up the menu
+1. Create Css
+2. Set up Devise for authentication
+3. Create the profile page
+4. Setting up the menu
 
 To be done:
->> Adding more information to the Users table
->> Creating friendships
->> Add Status updates
->> Add Comments
->> Set up messages
->> Set up the Mailer:
+1. Adding more information to the Users table
+2. Creating friendships
+3. Add Status updates
+4. Add Comments
+5. Set up messages
+6. Set up the Mailer:
 	-Registration
 	-New Messages
 	-New friend requests
 	-Monthly site updates
->> Add events (Invites)
->> Add Children to the Users Profiles
->> Add Photos
+7. Add events (Invites)
+8. Add Children to the Users Profiles
+9. Add Photos
 
 There is more that will be added soon to the lists to be done. There is much more I am sure that I am not thinking of now. 
 
