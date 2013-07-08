@@ -2,7 +2,7 @@
 The is the second parenting social network that I am creating. The first of the two worked well, but it was not promoted enough, and had some functionality issues. This time I will be making this network to work in a way that will be easy to use; it will be more user friendly.
 
 <hr>
-<h1>**Finished tasks:**</h1>
+<h1>Finished tasks:</h1>
 <ul>
 	<li>Create Css</li>
 	<li>Set up Devise for authentication</li>
@@ -10,7 +10,7 @@ The is the second parenting social network that I am creating. The first of the 
 	<li>Setting up the menu</li>
 </ul>
 
-<h1>**To be done:**</h1>
+<h1>To be done:</h1>
 <ul>
 	<li>Adding more information to the Users table</li>
 	<li>Creating friendships</li>
