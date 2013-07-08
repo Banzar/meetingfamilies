@@ -1,7 +1,8 @@
 <MTMarkdownOptions output='html4'>
 The is the second parenting social network that I am creating. The first of the two worked well, but it was not promoted enough, and had some functionality issues. This time I will be making this network to work in a way that will be easy to use; it will be more user friendly.
 
-*Finished tasks:*
+<hr>
+<h1>**Finished tasks:**</h1>
 <ul>
 	<li>Create Css</li>
 	<li>Set up Devise for authentication</li>
@@ -9,20 +10,19 @@ The is the second parenting social network that I am creating. The first of the 
 	<li>Setting up the menu</li>
 </ul>
 
-*To be done:*
-1. Adding more information to the Users table
-2. Creating friendships
-3. Add Status updates
-4. Add Comments
-5. Set up messages
-6. Set up the Mailer:
-	-Registration
-	-New Messages
-	-New friend requests
-	-Monthly site updates
-7. Add events (Invites)
-8. Add Children to the Users Profiles
-9. Add Photos
+<h1>**To be done:**</h1>
+<ul>
+	<li>Adding more information to the Users table</li>
+	<li>Creating friendships</li>
+	<li>Add Status updates</li>
+	<li>Add Comments</li>
+	<li>Set up messages</li>
+	<li>Set up the Mailer: Registration, New Messages, New friend requests, Monthly site updates</li>
+	<li>Add events (Invites)</li>
+	<li>Add Children to the Users Profiles</li>
+	<li>Add Photos</li>
+</ul>
+<hr>
 
 There is more that will be added soon to the lists to be done. There is much more I am sure that I am not thinking of now. 
 
